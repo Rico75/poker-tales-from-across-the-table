@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+     xml:lang="en"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+
+    <channel>
+
+        <title><![CDATA[Poker Tales From Across The Table]]></title>
+        <link>https://www.youtube.com/playlist?list=PLHg9TshvWfNcG9FTFx59RtwpvVgui0fpo</link>
+        <description><![CDATA[
+      Welcome to Poker Tales From Across the Table. I’m Rico — and if you’ve ever sat down at a poker table and felt that mix of adrenaline, curiosity, and quiet calculation… you’re in the right place.
+    ]]></description>
+
+        <atom:link href="https://raw.githubusercontent.com/Rico75/ricosCasino-reactjs/refs/heads/main/poker-tales-rss.xml?token=GHSAT0AAAAAAEBC2TW4JKLF5HGJXARJCPEW2R7QZPA"
+                   rel="self"
+                   type="application/rss+xml"/>
+
+        <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+
+        <language>en</language>
+        <lastBuildDate>Mon, 15 Jun 2026 09:32:32 GMT</lastBuildDate>
+        <generator>RSS.com 2026.609.160344</generator>
+        <copyright><![CDATA[Rico Galaxy 2026]]></copyright>
+
+        <image>
+            <url>https://assets.rss.com/images/no-cover-1400.jpg</url>
+            <title>Poker Tales From Across The Table</title>
+            <link>https://www.youtube.com/playlist?list=PLHg9TshvWfNcG9FTFx59RtwpvVgui0fpo</link>
+        </image>
+
+        <itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+
+        <podcast:guid>a1a7781e-3981-586e-8ca0-41cb32d23366</podcast:guid>
+        <podcast:locked>no</podcast:locked>
+        <podcast:license><![CDATA[Rico Galaxy 2026]]></podcast:license>
+        <podcast:medium>podcast</podcast:medium>
+        <podcast:location rel="creator"
+                          geo="geo:36.7014631,-118.755997"
+                          osm="R165475"
+                          country="us">California, USA</podcast:location>
+        <podcast:txt purpose="ai-content">false</podcast:txt>
+
+        <itunes:author>Rico Galaxy</itunes:author>
+        <itunes:owner>
+            <itunes:name>Rico Galaxy</itunes:name>
+            <itunes:email>poker.tales.podcast@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Places &amp; Travel"/>
+        </itunes:category>
+
+        <item>
+            <title><![CDATA[Poker Tales From Across The Table -- The Seat Is Yours]]></title>
+            <itunes:title><![CDATA[Poker Tales From Across The Table -- The Seat Is Yours]]></itunes:title>
+
+            <description><![CDATA[
+        <p><strong>Episode 0 — “The Seat Is Yours”</strong></p>
+        <p>Poker Tales From Across the Table opens with a simple truth: poker isn’t just a card game — it’s a mirror.</p>
+      ]]></description>
+
+            <link>https://rss.com/podcasts/poker-tales-from-across-the-table/2915958</link>
+
+            <enclosure url="https://content.rss.com/episodes/389550/2915958/poker-tales-from-across-the-table/2026_06_15_09_29_59_98fde28e-cb16-4732-af3a-785062980f63.mp3"
+                       length="2975241"
+                       type="audio/mpeg"/>
+
+            <guid isPermaLink="false">962c3fa3-0c3b-4523-8f76-963df2174de1</guid>
+
+            <pubDate>Mon, 15 Jun 2026 09:30:17 GMT</pubDate>
+
+            <itunes:duration>185</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+
+            <podcast:season>1</podcast:season>
+            <podcast:episode>1</podcast:episode>
+
+            <itunes:image href="https://media.rss.com/poker-tales-from-across-the-table/ep_cover_20260615_090653_9c17ec7f159afccdef0b82a24881197f.png"/>
+
+            <podcast:location rel="creator"
+                              geo="geo:36.7014631,-118.755997"
+                              osm="R165475"
+                              country="us">California, USA</podcast:location>
+
+            <podcast:location rel="subject"
+                              geo="geo:36.7014631,-118.755997"
+                              osm="R165475"
+                              country="us">California, USA</podcast:location>
+
+            <podcast:txt purpose="ai-content">false</podcast:txt>
+        </item>
+
+    </channel>
+</rss>
