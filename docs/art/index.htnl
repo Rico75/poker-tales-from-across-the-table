@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Art & Animation | Poker Tales From Across the Table</title>
+    <meta
+      name="description"
+      content="Browse art, covers, and animation from Poker Tales From Across the Table."
+    />
+    <style>
+      :root {
+        color-scheme: light dark;
+      }
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        line-height: 1.6;
+      }
+      main {
+        max-width: 56rem;
+        margin: 0 auto;
+        padding: 2rem 1rem 3rem;
+      }
+      section {
+        margin-top: 2rem;
+      }
+      h1,
+      h2 {
+        line-height: 1.25;
+      }
+      nav a {
+        margin-right: 1rem;
+      }
+      ul {
+        padding-left: 1.25rem;
+      }
+      .cta {
+        display: inline-block;
+        margin-top: 0.5rem;
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Art & Animation</h1>
+        <p><strong>Visual storytelling from the Poker Archetype Universe.</strong></p>
+      </header>
+
+      <nav aria-label="Primary">
+        <a href="/docs/index.html">Home</a>
+        <a href="/docs/episodes/index.html">Episodes</a>
+        <a href="/docs/characters/index.html">Characters</a>
+        <a href="/docs/stories/index.html">Stories</a>
+        <a href="/docs/about/index.html">About</a>
+      </nav>
+
+      <section>
+        <h2>Featured Collections</h2>
+        <ul>
+          <li>Archetype portraits and expressions</li>
+          <li>Episode cover art</li>
+          <li>Loop animations and motion studies</li>
+          <li>Behind-the-scenes concept sketches</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>More to Explore</h2>
+        <p>New artwork drops with upcoming episodes and character releases.</p>
+        <a class="cta" href="/docs/contact/index.html">Get Updates</a>
+      </section>
+    </main>
+  </body>
+</html>
