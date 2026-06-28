@@ -22,8 +22,8 @@
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 
         <language>en</language>
-        <lastBuildDate>Mon, 15 Jun 2026 09:32:32 GMT</lastBuildDate>
-        <generator>RSS.com 2026.609.160344</generator>
+        <lastBuildDate>Sun, 28 Jun 2026 11:37:01 GMT</lastBuildDate>
+        <generator>Poker Tales RSS Generator</generator>
         <copyright><![CDATA[Rico Galaxy 2026]]></copyright>
 
         <image>
@@ -57,25 +57,50 @@
         </itunes:category>
 
         <item>
-            <title><![CDATA[Poker Tales From Across The Table -- The Seat Is Yours]]></title>
-            <itunes:title><![CDATA[Poker Tales From Across The Table -- The Seat Is Yours]]></itunes:title>
+            <title><![CDATA[Tales From Across The Table - Episode0]]></title>
+            <itunes:title><![CDATA[Tales From Across The Table - Episode0]]></itunes:title>
 
             <description><![CDATA[
-        <p><strong>Episode 0 — “The Seat Is Yours”</strong></p>
-        <p>Poker Tales From Across the Table opens with a simple truth: poker isn’t just a card game — it’s a mirror.</p>
+        <p>This is a poker cast that takes you on a poker journey with stories that came from years of sitting at the poker tables.</p>
       ]]></description>
 
-            <link>https://rss.com/podcasts/poker-tales-from-across-the-table/2915958</link>
+            <link>https://youtu.be/7QucuUYgxvw</link>
 
-            <enclosure url="https://content.rss.com/episodes/389550/2915958/poker-tales-from-across-the-table/2026_06_15_09_29_59_98fde28e-cb16-4732-af3a-785062980f63.mp3"
-                       length="2975241"
-                       type="audio/mpeg"/>
+            <guid isPermaLink="true">https://youtu.be/7QucuUYgxvw</guid>
 
-            <guid isPermaLink="false">962c3fa3-0c3b-4523-8f76-963df2174de1</guid>
+            <pubDate>Sun, 28 Jun 2026 11:37:01 GMT</pubDate>
 
-            <pubDate>Mon, 15 Jun 2026 09:30:17 GMT</pubDate>
+            <itunes:duration>186</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>0</itunes:episode>
 
-            <itunes:duration>185</itunes:duration>
+            <podcast:season>1</podcast:season>
+            <podcast:episode>0</podcast:episode>
+
+            <podcast:location rel="creator"
+                              geo="geo:36.7014631,-118.755997"
+                              osm="R165475"
+                              country="us">California, USA</podcast:location>
+
+            <podcast:txt purpose="ai-content">false</podcast:txt>
+        </item>
+
+        <item>
+            <title><![CDATA[Tales From Across The Table - Episode1]]></title>
+            <itunes:title><![CDATA[Tales From Across The Table - Episode1]]></itunes:title>
+
+            <description><![CDATA[
+        <p>The first episode where the table reads you.</p>
+      ]]></description>
+
+            <link>https://youtu.be/GXPYoAGnaF0</link>
+
+            <guid isPermaLink="true">https://youtu.be/GXPYoAGnaF0</guid>
+
+            <pubDate>Sun, 28 Jun 2026 11:37:01 GMT</pubDate>
+
+            <itunes:duration>531</itunes:duration>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <itunes:episode>1</itunes:episode>
@@ -83,14 +108,98 @@
             <podcast:season>1</podcast:season>
             <podcast:episode>1</podcast:episode>
 
-            <itunes:image href="https://media.rss.com/poker-tales-from-across-the-table/ep_cover_20260615_090653_9c17ec7f159afccdef0b82a24881197f.png"/>
+            <podcast:location rel="creator"
+                              geo="geo:36.7014631,-118.755997"
+                              osm="R165475"
+                              country="us">California, USA</podcast:location>
+
+            <podcast:txt purpose="ai-content">false</podcast:txt>
+        </item>
+
+        <item>
+            <title><![CDATA[Tales From Across The Table - Episode2]]></title>
+            <itunes:title><![CDATA[Tales From Across The Table - Episode2]]></itunes:title>
+
+            <description><![CDATA[
+        <p>This is episode 2 -- "The Taser Duel — Never Underestimate Your Opponents."</p>
+      ]]></description>
+
+            <link>https://youtu.be/vo11mtpnBbQ</link>
+
+            <guid isPermaLink="true">https://youtu.be/vo11mtpnBbQ</guid>
+
+            <pubDate>Sun, 28 Jun 2026 11:37:01 GMT</pubDate>
+
+            <itunes:duration>457</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+
+            <podcast:season>1</podcast:season>
+            <podcast:episode>2</podcast:episode>
 
             <podcast:location rel="creator"
                               geo="geo:36.7014631,-118.755997"
                               osm="R165475"
                               country="us">California, USA</podcast:location>
 
-            <podcast:location rel="subject"
+            <podcast:txt purpose="ai-content">false</podcast:txt>
+        </item>
+
+        <item>
+            <title><![CDATA[Tales From Across The Table - Episode3]]></title>
+            <itunes:title><![CDATA[Tales From Across The Table - Episode3]]></itunes:title>
+
+            <description><![CDATA[
+        <p>This episode talks about the Foreigner and how he was able to dominate the table in the WSOP by being consistent.</p>
+      ]]></description>
+
+            <link>https://youtu.be/awJITYBtqIc</link>
+
+            <guid isPermaLink="true">https://youtu.be/awJITYBtqIc</guid>
+
+            <pubDate>Sun, 28 Jun 2026 11:37:01 GMT</pubDate>
+
+            <itunes:duration>779</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+
+            <podcast:season>1</podcast:season>
+            <podcast:episode>3</podcast:episode>
+
+            <podcast:location rel="creator"
+                              geo="geo:36.7014631,-118.755997"
+                              osm="R165475"
+                              country="us">California, USA</podcast:location>
+
+            <podcast:txt purpose="ai-content">false</podcast:txt>
+        </item>
+
+        <item>
+            <title><![CDATA[Tales From Across The Table - Episode4: Chip and a Chair]]></title>
+            <itunes:title><![CDATA[Tales From Across The Table - Episode4: Chip and a Chair]]></itunes:title>
+
+            <description><![CDATA[
+        <p>"Chip and a Chair" follows Rico—the eagle, storyteller and analyzer—as he relives a defining moment from a massive No‑Limit Hold'em tournament at the legendary Commerce Casino.</p>
+        <p>From one chip to a playable stack, Rico breaks down hand reading and table image manipulation. A masterclass in short-stack strategy and opponent profiling.</p>
+      ]]></description>
+
+            <link>https://youtu.be/PgsukEpriyY</link>
+
+            <guid isPermaLink="true">https://youtu.be/PgsukEpriyY</guid>
+
+            <pubDate>Sun, 28 Jun 2026 11:37:01 GMT</pubDate>
+
+            <itunes:duration>506</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+
+            <podcast:season>1</podcast:season>
+            <podcast:episode>4</podcast:episode>
+
+            <podcast:location rel="creator"
                               geo="geo:36.7014631,-118.755997"
                               osm="R165475"
                               country="us">California, USA</podcast:location>
