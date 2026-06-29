@@ -15,7 +15,7 @@
       <header>
         <p class="eyebrow">Stay in touch</p>
         <h1>Contact</h1>
-        <p><strong>Stay connected with Poker Tales From Across the Table.</strong></p>
+        <p><strong>Join the mailing list and get new episodes, stories, and archetype drops first.</strong></p>
       </header>
 
       <nav aria-label="Primary">
@@ -25,10 +25,53 @@
       </nav>
 
       <section>
-        <h2>Mailing List</h2>
-        <p>Get new episodes, stories, and archetype drops straight to your inbox.</p>
-        <a class="cta" href="mailto:poker.tales.podcast@gmail.com?subject=Mailing%20List%20Signup"
-          >Join the Mailing List</a
+        <h2 id="mailing-list">Mailing List</h2>
+        <p>Use the form below to open a prefilled email draft for the show list.</p>
+
+        <form
+          id="signup-form"
+          class="form"
+          action="mailto:poker.tales.podcast@gmail.com?subject=Mailing%20List%20Signup"
+          method="get"
+          enctype="text/plain"
+        >
+          <div class="form-grid">
+            <div class="field">
+              <label for="name">Name</label>
+              <input id="name" name="name" type="text" autocomplete="name" placeholder="Rico" required />
+            </div>
+
+            <div class="field">
+              <label for="email">Email</label>
+              <input
+                id="email"
+                name="email"
+                type="email"
+                autocomplete="email"
+                placeholder="rico@example.com"
+                required
+              />
+            </div>
+
+            <div class="field field--full">
+              <label for="topics">What do you want to hear about?</label>
+              <select id="topics" name="topics">
+                <option>Episodes and release updates</option>
+                <option>Character drops and archetype art</option>
+                <option>Stories and poker psychology</option>
+                <option>Everything from the table</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-actions">
+            <button class="cta" type="submit">Join the Mailing List</button>
+            <p class="form-note">This opens your email app with a ready-to-send signup message.</p>
+          </div>
+        </form>
+
+        <a class="supporting-link" href="mailto:poker.tales.podcast@gmail.com?subject=Mailing%20List%20Signup"
+          >Prefer email only? Send a signup note</a
         >
       </section>
 
@@ -40,5 +83,31 @@
         </p>
       </section>
     </main>
+    <script>
+      const form = document.getElementById("signup-form");
+
+      form.addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        const data = new FormData(form);
+        const name = String(data.get("name") || "").trim();
+        const email = String(data.get("email") || "").trim();
+        const topics = String(data.get("topics") || "").trim();
+
+        const subject = encodeURIComponent("Poker Tales mailing list signup");
+        const body = encodeURIComponent(
+          [
+            "Please add me to the Poker Tales From Across the Table mailing list.",
+            "",
+            `Name: ${name}`,
+            `Email: ${email}`,
+            `Interested in: ${topics}`,
+            "",
+          ].join("\n")
+        );
+
+        window.location.href = `mailto:poker.tales.podcast@gmail.com?subject=${subject}&body=${body}`;
+      });
+    </script>
   </body>
 </html>
