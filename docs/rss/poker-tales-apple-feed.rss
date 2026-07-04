@@ -57,16 +57,16 @@
         </itunes:category>
 
         <item>
-            <title><![CDATA[Poker Tales From Across The Table Intro episode0]]></title>
-            <itunes:title><![CDATA[Poker Tales From Across The Table Intro episode0]]></itunes:title>
+            <title><![CDATA[Poker Tales From Across The Table IntroFinal]]></title>
+            <itunes:title><![CDATA[Poker Tales From Across The Table IntroFinal]]></itunes:title>
 
             <description><![CDATA[<p>This is a poker cast that takes you on a poker journey with stories that came from years of sitting at the poker tables.</p>]]></description>
 
             <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-0.html</link>
 
-            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-episode0.wav"
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-IntroFinal.mp3"
                        length="88244"
-                       type="audio/wav"/>
+                       type="audio/mpeg"/>
 
             <guid isPermaLink="false">poker-tales-s1e0</guid>
 
@@ -98,9 +98,9 @@
 
             <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-1.html</link>
 
-            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-episode1.wav"
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-Episode1.mp3"
                        length="88244"
-                       type="audio/wav"/>
+                       type="audio/mpeg"/>
 
             <guid isPermaLink="false">poker-tales-s1e1</guid>
 
@@ -132,9 +132,9 @@
 
             <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-2.html</link>
 
-            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-episode2.wav"
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-Episode2.mp3"
                        length="88244"
-                       type="audio/wav"/>
+                       type="audio/mpeg"/>
 
             <guid isPermaLink="false">poker-tales-s1e2</guid>
 
@@ -166,9 +166,9 @@
 
             <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-3.html</link>
 
-            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-episode3.wav"
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-Episode3.mp3"
                        length="88244"
-                       type="audio/wav"/>
+                       type="audio/mpeg"/>
 
             <guid isPermaLink="false">poker-tales-s1e3</guid>
 
@@ -201,9 +201,9 @@
 
             <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-4.html</link>
 
-            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-episode4.wav"
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-Episode4.mp3"
                        length="88244"
-                       type="audio/wav"/>
+                       type="audio/mpeg"/>
 
             <guid isPermaLink="false">poker-tales-s1e4</guid>
 
