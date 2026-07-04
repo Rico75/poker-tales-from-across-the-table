@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+     xml:lang="en"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+
+    <channel>
+
+        <title><![CDATA[Poker Tales From Across The Table]]></title>
+        <link>https://rico75.github.io/poker-tales-from-across-the-table/</link>
+        <description><![CDATA[
+      Welcome to Poker Tales From Across the Table. I’m Rico — and if you’ve ever sat down at a poker table and felt that mix of adrenaline, curiosity, and quiet calculation… you’re in the right place.
+    ]]></description>
+
+        <atom:link href="https://rico75.github.io/poker-tales-from-across-the-table/rss/poker-tales-apple-rss.xml"
+                   rel="self"
+                   type="application/rss+xml"/>
+
+        <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+
+        <language>en</language>
+        <lastBuildDate>Fri, 04 Jul 2026 02:50:30 GMT</lastBuildDate>
+        <generator>Poker Tales RSS Generator</generator>
+        <copyright><![CDATA[Rico Galaxy 2026]]></copyright>
+
+        <image>
+            <url>https://rico75.github.io/poker-tales-from-across-the-table/assets/img/podcast-cover.png</url>
+            <title>Poker Tales From Across The Table</title>
+            <link>https://rico75.github.io/poker-tales-from-across-the-table/</link>
+        </image>
+
+        <itunes:image href="https://rico75.github.io/poker-tales-from-across-the-table/assets/img/PokerTales.png"/>
+
+        <podcast:guid>a1a7781e-3981-586e-8ca0-41cb32d23366</podcast:guid>
+        <podcast:locked>no</podcast:locked>
+        <podcast:license><![CDATA[Rico Galaxy 2026]]></podcast:license>
+        <podcast:medium>podcast</podcast:medium>
+        <podcast:location rel="creator"
+                          geo="geo:36.7014631,-118.755997"
+                          osm="R165475"
+                          country="us">California, USA</podcast:location>
+        <podcast:txt purpose="ai-content">false</podcast:txt>
+
+        <itunes:author>Rico Galaxy</itunes:author>
+        <itunes:owner>
+            <itunes:name>Rico Galaxy</itunes:name>
+            <itunes:email>poker.tales.podcast@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Places &amp; Travel"/>
+        </itunes:category>
+
+        <item>
+            <title><![CDATA[Poker Tales From Across The Table Intro episode0]]></title>
+            <itunes:title><![CDATA[Poker Tales From Across The Table Intro episode0]]></itunes:title>
+
+            <description><![CDATA[
+        <p>This is a poker cast that takes you on a poker journey with stories that came from years of sitting at the poker tables.</p>
+      ]]></description>
+
+            <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-0.html</link>
+
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/eTalesFromAcrossTheTable-episode0.wav"
+                       length="88244"
+                       type="audio/wav"/>
+
+            <guid isPermaLink="false">poker-tales-s1e0</guid>
+
+            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+
+            <itunes:duration>184</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>0</itunes:episode>
+
+            <podcast:season>1</podcast:season>
+            <podcast:episode>0</podcast:episode>
+
+            <podcast:location rel="creator"
+                              geo="geo:36.7014631,-118.755997"
+                              osm="R165475"
+                              country="us">California, USA</podcast:location>
+
+            <podcast:txt purpose="ai-content">false</podcast:txt>
+        </item>
+
+        <item>
+            <title><![CDATA[Poker Tales From Across The Table Episode1]]></title>
+            <itunes:title><![CDATA[Poker Tales From Across The Table Episode1]]></itunes:title>
+
+            <description><![CDATA[
+        <p>The first episode where the table reads you.</p>
+      ]]></description>
+
+            <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-1.html</link>
+
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/eTalesFromAcrossTheTable-episode1.wav"
+                       length="88244"
+                       type="audio/wav"/>
+
+            <guid isPermaLink="false">poker-tales-s1e1</guid>
+
+            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+
+            <itunes:duration>511</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+
+            <podcast:season>1</podcast:season>
+            <podcast:episode>1</podcast:episode>
+
+            <podcast:location rel="creator"
+                              geo="geo:36.7014631,-118.755997"
+                              osm="R165475"
+                              country="us">California, USA</podcast:location>
+
+            <podcast:txt purpose="ai-content">false</podcast:txt>
+        </item>
+
+        <item>
+            <title><![CDATA[Poker Tales From Across The Table Episode2]]></title>
+            <itunes:title><![CDATA[Poker Tales From Across The Table Episode2]]></itunes:title>
+
+            <description><![CDATA[
+        <p>This is episode 2 -- "The Taser Duel — Never Underestimate Your Opponents."</p>
+      ]]></description>
+
+            <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-2.html</link>
+
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/eTalesFromAcrossTheTable-episode2.wav"
+                       length="88244"
+                       type="audio/wav"/>
+
+            <guid isPermaLink="false">poker-tales-s1e2</guid>
+
+            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+
+            <itunes:duration>442</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+
+            <podcast:season>1</podcast:season>
+            <podcast:episode>2</podcast:episode>
+
+            <podcast:location rel="creator"
+                              geo="geo:36.7014631,-118.755997"
+                              osm="R165475"
+                              country="us">California, USA</podcast:location>
+
+            <podcast:txt purpose="ai-content">false</podcast:txt>
+        </item>
+
+        <item>
+            <title><![CDATA[The Foreigner — Analyzing Your Opponents]]></title>
+            <itunes:title><![CDATA[The Foreigner — Analyzing Your Opponents]]></itunes:title>
+
+            <description><![CDATA[
+        <p>This episode talks about the Foreigner and how he was able to dominate the table in the WSOP by being consistent.</p>
+      ]]></description>
+
+            <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-3.html</link>
+
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/eTalesFromAcrossTheTable-episode3.wav"
+                       length="88244"
+                       type="audio/wav"/>
+
+            <guid isPermaLink="false">poker-tales-s1e3</guid>
+
+            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+
+            <itunes:duration>755</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+
+            <podcast:season>1</podcast:season>
+            <podcast:episode>3</podcast:episode>
+
+            <podcast:location rel="creator"
+                              geo="geo:36.7014631,-118.755997"
+                              osm="R165475"
+                              country="us">California, USA</podcast:location>
+
+            <podcast:txt purpose="ai-content">false</podcast:txt>
+        </item>
+
+        <item>
+            <title><![CDATA[Tales From Across The Table - Episode4: Chip and a Chair]]></title>
+            <itunes:title><![CDATA[Tales From Across The Table - Episode4: Chip and a Chair]]></itunes:title>
+
+            <description><![CDATA[
+        <p>"Chip and a Chair" follows Rico—the eagle, storyteller and analyzer—as he relives a defining moment from a massive No‑Limit Hold'em tournament at the legendary Commerce Casino. The episode blends survival, psychology, and the craft of hand reading through a cinematic retelling of what happens when you're reduced to a single chip in a room full of killers.</p>
+        <p>From one chip to a playable stack, Rico breaks down hand reading and table image manipulation. A masterclass in short-stack strategy and opponent profiling.</p>
+      ]]></description>
+
+            <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-4.html</link>
+
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/eTalesFromAcrossTheTable-episode4.wav"
+                       length="88244"
+                       type="audio/wav"/>
+
+            <guid isPermaLink="false">poker-tales-s1e4</guid>
+
+            <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+
+            <itunes:duration>496</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+
+            <podcast:season>1</podcast:season>
+            <podcast:episode>4</podcast:episode>
+
+            <podcast:location rel="creator"
+                              geo="geo:36.7014631,-118.755997"
+                              osm="R165475"
+                              country="us">California, USA</podcast:location>
+
+            <podcast:txt purpose="ai-content">false</podcast:txt>
+        </item>
+
+    </channel>
+</rss>
