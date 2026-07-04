@@ -15,7 +15,7 @@
       Welcome to Poker Tales From Across the Table. I’m Rico — and if you’ve ever sat down at a poker table and felt that mix of adrenaline, curiosity, and quiet calculation… you’re in the right place.
     ]]></description>
 
-        <atom:link href="https://rico75.github.io/poker-tales-from-across-the-table/rss/poker-tales-rss.xml"
+        <atom:link href="https://rico75.github.io/poker-tales-from-across-the-table/rss/poker-tales-apple-rss.xml"
                    rel="self"
                    type="application/rss+xml"/>
 
@@ -32,7 +32,7 @@
             <link>https://rico75.github.io/poker-tales-from-across-the-table/</link>
         </image>
 
-        <itunes:image href="https://rico75.github.io/poker-tales-from-across-the-table/assets/img/podcast-cover.png"/>
+        <itunes:image href="https://rico75.github.io/poker-tales-from-across-the-table/assets/img/PokerTales.png"/>
 
         <podcast:guid>a1a7781e-3981-586e-8ca0-41cb32d23366</podcast:guid>
         <podcast:locked>no</podcast:locked>
@@ -66,7 +66,7 @@
 
             <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-0.html</link>
 
-            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/episode-0-placeholder.wav"
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/eTalesFromAcrossTheTable-episode0.wav"
                        length="88244"
                        type="audio/wav"/>
 
@@ -100,7 +100,7 @@
 
             <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-1.html</link>
 
-            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/episode-1-placeholder.wav"
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/eTalesFromAcrossTheTable-episode1.wav"
                        length="88244"
                        type="audio/wav"/>
 
@@ -134,7 +134,7 @@
 
             <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-2.html</link>
 
-            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/episode-2-placeholder.wav"
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/eTalesFromAcrossTheTable-episode2.wav"
                        length="88244"
                        type="audio/wav"/>
 
@@ -168,7 +168,7 @@
 
             <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-3.html</link>
 
-            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/episode-3-placeholder.wav"
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/eTalesFromAcrossTheTable-episode3.wav"
                        length="88244"
                        type="audio/wav"/>
 
@@ -203,7 +203,7 @@
 
             <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-4.html</link>
 
-            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/episode-4-placeholder.wav"
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/rss/media/eTalesFromAcrossTheTable-episode4.wav"
                        length="88244"
                        type="audio/wav"/>
 
